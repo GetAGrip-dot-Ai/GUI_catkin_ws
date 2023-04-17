@@ -1,0 +1,2 @@
+gui_package
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/solomon/GUI_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/solomon/GUI_catkin_ws/install

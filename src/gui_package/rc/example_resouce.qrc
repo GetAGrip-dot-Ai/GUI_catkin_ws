@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>my_gui_icon.png</file>
+        <file>PepperIcon.png</file>
+    </qresource>
+</RCC>
